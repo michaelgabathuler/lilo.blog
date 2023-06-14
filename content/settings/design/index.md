@@ -1,7 +1,7 @@
 +++
 headless = true
-icon = "/img/default-favicon.png"
-logo = "/img/default-logo.png"
-image = "/img/default-image.jpg"
+icon = "/media/berlin_oberbaumbruecke-kopie.jpg"
+logo = "/media/berlin_oberbaumbruecke-kopie.jpg"
+image = "/media/berlin_oberbaumbruecke-kopie.jpg"
 color = "#5d9fbd"
 +++
